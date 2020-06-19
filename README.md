@@ -1,2 +1,1 @@
-# practive
-practive
+webpack static config
